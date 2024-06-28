@@ -1,0 +1,154 @@
+[
+  {
+     
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "rating": { "$numberInt": "4" },
+    "isbn": "9780439023481",
+    "genre": "Sci-Fi",
+    "pdfUrl": "https://www.deyeshigh.co.uk/downloads/literacy/world_book_day/the_hunger_games_-_trilogy.pdf",
+    "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "3" } ]
+  },
+  {
+
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": { "$numberInt": "5" },
+    "isbn": "9780061120084",
+    "genre": "Fiction",
+    "pdfUrl": "https://www.raio.org/TKMFullText.pdf",
+    "ratings": [ { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" } ]
+  },
+  {
+
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "rating": { "$numberInt": "4" },
+    "isbn": "9780142424179",
+    "genre": "Fiction",
+    "pdfUrl": "https://www.juhsd.net/site/handlers/filedownload.ashx?moduleinstanceid=4480&dataid=7745&FileName=The-Fault-in-Our-Stars.pdf",
+    "ratings": [ { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+  {
+    "_id": { "$oid": "660c472e792c91ecd5422416" },
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "rating": { "$numberInt": "3" },
+    "isbn": "9780544336261",
+    "genre": "Sci-Fi",
+    "pdfUrl": "https://sawyerela.weebly.com/uploads/5/8/8/1/5881058/the_giver__giver_quartet_book_-_lois_lowry.pdf",
+    "ratings": [ { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+  {
+
+    "title": "Thirteen Reasons Why",
+    "author": "Jay Asher",
+    "rating": { "$numberInt": "5" },
+    "isbn": "9781595141880",
+    "genre": "Mystery",
+    "pdfUrl": "https://ia800605.us.archive.org/11/items/13ReasonsWhy_201706/13-Reasons-Why.pdf",
+    "ratings": [ { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+  {
+
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "author": "Ransom Riggs",
+    "rating": { "$numberInt": "4" },
+    "isbn": "9781594746031",
+    "genre": "Horror",
+    "pdfUrl": "https://books-library.net/files/books-library.online-01100735Fn4S9.pdf",
+    "ratings": [ { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+  {
+
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "rating": { "$numberInt": "3" },
+    "isbn": "9780307887443",
+    "genre": "Sci-Fi",
+    "pdfUrl": "https://asmsummerreading.weebly.com/uploads/1/2/5/7/125763472/ready-player-one.pdf",
+    "ratings": [ { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+  {
+
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "rating": { "$numberInt": "4" },
+    "isbn": "9780385737951",
+    "genre": "Sci-Fi",
+    "pdfUrl": "https://mskandres.weebly.com/uploads/1/4/2/1/14213852/the_maze_runner_-_full_novel_pdf.pdf",
+    "ratings": [ { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+  },
+    {
+
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "rating": { "$numberInt": "4" },
+      "isbn": "9780553296983",
+      "genre": "Non-Fiction",
+      "pdfUrl": "http://www.rhetorik.ch/Aktuell/16/02_13/frank_diary.pdf",
+      "ratings": [ { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" } ]
+    },
+    {
+
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "rating": { "$numberInt": "3" },
+      "isbn": "9781400052189",
+      "genre": "Non-Fiction",
+      "pdfUrl": "https://ia803009.us.archive.org/15/items/HELAFullText/HELA%20Full%20Text.pdf",
+      "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "3" } ]
+    },
+    {
+
+      "title": "Educated: A Memoir",
+      "author": "Tara Westover",
+      "rating": { "$numberInt": "4" },
+      "isbn": "9780399590504",
+      "genre": "Non-Fiction",
+      "pdfUrl": "https://jerrywbrown.com/wp-content/uploads/2023/03/Tara-Westover-Educated.pdf",
+      "ratings": [ { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "5" } ]
+    },
+    {
+
+      "title": "The 7 Habits of Highly Effective Teens",
+      "author": "Sean Covey",
+      "rating": { "$numberInt": "4" },
+      "isbn": "9781476764665",
+      "genre": "Non-Fiction",
+      "pdfUrl": "https://icrrd.com/public/media/16-05-2021-0452597-Habits-of-Highly-Effective-Teens.pdf",
+      "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "4" }, { "$numberInt": "5" } ]
+    },
+
+      {
+
+        "title": "One of Us Is Lying",
+        "author": "Karen M. McManus",
+        "rating": { "$numberInt": "4" },
+        "isbn": "9781524714680",
+        "genre": "Crime",
+        "pdfUrl": "https://www.oasisacademysouthbank.org/uploaded/South_Bank/Curriculum/Student_Learning/Online_Library/KS4/one_of_us_is_lying/01_One_of_Us_Is_Lying_by_Karen_M_McManus.pdf",
+        "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "5" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+      },
+      {
+
+        "title": "Truly Devious",
+        "author": "Maureen Johnson",
+        "rating": { "$numberInt": "2" },
+        "isbn": "9780062338051",
+        "genre": "Crime",
+        "pdfUrl": "https://www.eurekapl.org/uploads/7/2/9/4/7294471/truly_devious.pdf",
+        "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "4" } ]
+      },
+
+      {
+
+        "title": "We Were Liars",
+        "author": "E. Lockhart",
+        "rating": { "$numberInt": "4" },
+        "isbn": "9780385741262",
+        "genre": "Crime",
+        "pdfUrl": "https://posterspageturners.files.wordpress.com/2017/04/we_were_liars.pdf",
+        "ratings": [ { "$numberInt": "4" }, { "$numberInt": "4" }, { "$numberInt": "3" }, { "$numberInt": "4" }, { "$numberInt": "3" } ]
+      }
+    ]
